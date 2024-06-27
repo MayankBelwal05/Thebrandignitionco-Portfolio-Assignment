@@ -1,1 +1,2 @@
 # Thebrandignitionco-Portfolio-Assignment
+##Structure
