@@ -73,7 +73,7 @@ const Navbar = () => {
             id="contact-github"
             onClick={() => {
               window.open(
-                "https://drive.google.com/file/d/1c6n_AwdFxbPAmHn5Er7F27pLISPdTN6H/view?usp=sharing",
+                "https://drive.google.com/file/d/1WPqI_zOCIz1zRU2dM0CJ98iLOW6aWbGQ/view",
                 "_blank"
               );
             }}

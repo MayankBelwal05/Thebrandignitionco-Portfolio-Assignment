@@ -1,7 +1,7 @@
 {
-  "name": "mayank-belwal-portfolio",
+  "name": "geetesh-mehuria-portfolio",
   "version": "0.1.0",
-  "homepage": "https://Thebrandignitionco-Portfolio-Assignment.github.io",
+  "homepage": "https://geeteshmehuria.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.12.1",
@@ -31,8 +31,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "postinstall": "npm install --legacy-peer-deps"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
