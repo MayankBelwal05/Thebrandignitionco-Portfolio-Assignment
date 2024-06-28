@@ -28,7 +28,7 @@ export const Bio = {
   githubLanguge:
     "https://github-readme-stats.vercel.app/api/top-langs?username=MayankBelwal05&show_icons=true&locale=en&layout=compact&theme=radical",
 
-  githubCalendar: "https://ghchart.rshah.org/MayankBelwal05",
+  // githubCalendar: "https://ghchart.rshah.org/MayankBelwal05",
 };
 
 export const skills = [
